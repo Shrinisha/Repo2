@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 7883-E0FD
-
- Directory of C:\Users\Vishnu Ram T K\Desktop\My Project
-
-11/10/2026  04:31 PM    <DIR>          .
-11/10/2026  04:27 PM    <DIR>          ..
-11/10/2026  04:31 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  73,897,799,680 bytes free
+change1
